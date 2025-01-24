@@ -1,5 +1,5 @@
 tag	description	achieved	valid_in
-ACH_PASS	Make a nun	0	fr,co
+ACH_PASS	Make a pass!	0	fr,co
 ACH_TOUCHDOWN1	Score a touchdown	0	fr,co
 ACH_TOUCHDOWN3	Score 3 touchdowns in a game	0	fr,co
 ACH_TOUCHDOWN5	Score 5 touchdowns in a game	0	fr,co
