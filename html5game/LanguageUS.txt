@@ -1,5 +1,5 @@
 msg_Update	Thank you for updating Retro Bowl!##You are now able to play exhibition games! Choose two teams for a one-off game and even pass n' play to compete against a fellow human!##I hope you are still enjoying Retro Bowl and thank you for your continued support.##- Simon
-ui_NewStarGames	New Star Games
+ui_NewStarGames	SpaceClient
 ui_Back	Back
 ui_Home	Home
 ui_Dilemma	Dilemma
